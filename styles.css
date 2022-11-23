@@ -1,0 +1,82 @@
+    body {
+        background: linear-gradient(to left, rgb(20, 184, 229), #fff, rgb(223, 49, 49));
+    }
+    
+    .btn {
+        height: 100px;
+        width: 100px;
+        justify-content: center;
+        align-items: center;
+        position: fixed;
+        right: 20px;
+        bottom: 10px;
+        cursor: pointer;
+    }
+    
+    .icone {
+        width: 50px;
+    }
+    
+    .btn-instagram {
+        height: -100px;
+        width: 100px;
+        justify-content: center;
+        align-items: center;
+        position: fixed;
+        left: 20px;
+        bottom: 60px;
+        cursor: pointer;
+    }
+    
+    .btn-tiktok {
+        height: -100px;
+        width: 100px;
+        justify-content: center;
+        align-items: center;
+        position: fixed;
+        left: 70px;
+        bottom: 65px;
+        cursor: pointer;
+    }
+    
+    h4 {
+        text-align: center;
+        cursor: pointer;
+    }
+    
+    img {
+        border-radius: 10%;
+    }
+    
+    h1 {
+        text-align: center;
+        text-decoration: none;
+        color: blue;
+        font-family: 'Oswald', sans-serif;
+    }
+    
+    a:link {
+        text-decoration: none;
+    }
+    
+    h2 {
+        text-align: center;
+        font-family: 'Oswald', sans-serif;
+        text-decoration: none;
+        color: red;
+    }
+    
+    h5 {
+        text-align: center;
+        cursor: pointer;
+    }
+    
+    h6 {
+        font-size: larger;
+        text-align: center;
+    }
+    
+    h7 {
+        text-align: center;
+        font-family: 'Oswald', sans-serif;
+    }
